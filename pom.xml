@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hahota</groupId>
-    <artifactId>simon.fun</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>StopReload</artifactId>
+    <version>3.0</version>
     <packaging>jar</packaging>
 
     <name>Simon.fun</name>

@@ -1,4 +1,4 @@
-name: Simon.fun
+name: StopReload
 version: ${project.version}
 main: hahota.simon.fun.Simon.fun
 api-version: 1.16
