@@ -12,7 +12,7 @@ import net.md_5.bungee.event.EventPriority;
 public class bungeeconsolereload extends Plugin implements Listener {
 
     @EventHandler (priority = EventPriority.HIGH)
-    public void onProxyReloadEvent(ProxyReloadEvent event) {
+    public void onReloadEvent() { // todo   NOT FINISHED
         getLogger().info(ChatColor.RED + "I see you reloaded, let me help you with that!");
         getProxy().stop();
 
