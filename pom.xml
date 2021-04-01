@@ -6,7 +6,7 @@
 
     <groupId>hahota</groupId>
     <artifactId>StopReload</artifactId>
-    <version>3.1</version>
+    <version>3.2</version>
     <packaging>jar</packaging>
 
     <name>Simon.fun</name>
