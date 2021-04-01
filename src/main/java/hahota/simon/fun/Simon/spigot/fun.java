@@ -1,5 +1,7 @@
-package hahota.simon.fun.Simon;
+package hahota.simon.fun.Simon.spigot;
 
+import hahota.simon.fun.Simon.spigot.consolereload;
+import hahota.simon.fun.Simon.spigot.reloadcommand;
 import org.bukkit.ChatColor;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;

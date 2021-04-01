@@ -1,4 +1,4 @@
-package hahota.simon.fun.Simon;
+package hahota.simon.fun.Simon.spigot;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

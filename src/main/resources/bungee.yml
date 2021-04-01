@@ -1,0 +1,4 @@
+name: StopReload
+version: ${project.version}
+main: hahota.simon.fun.Simon.bungee.stopreloadbungee
+author: KoxSosen
